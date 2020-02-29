@@ -1,0 +1,6 @@
+entity\Address_.class
+entity\Customer_.class
+entity\Tester.class
+entity\Address.class
+facade\CustomerFacade.class
+entity\Customer.class
